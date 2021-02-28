@@ -20,5 +20,6 @@ MIT License
 
 ## Acknowledgments
 
-* Ray Zimmerman
+* Edwin A. Cowen, Civil and Environmental Engineering, Cornell University
+* Ray Zimmerman, Applied Economics and Management, Cornell University
     
