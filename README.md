@@ -14,11 +14,6 @@ for the virtual battery is within New York State. For electricity pricing
 data, the simulation relies on data from NYISO, which only controls prices
 within New York State.
 
-## Authors
-
-* **Todd Cowen** - *Principal Investigator* - [eac20](https://github.coecis.cornell.edu/eac20)
-* **Fletcher Passow** - *Initial work* - [fhp7](https://github.coecis.cornell.edu/fhp7)
-
 ## License
 
 MIT License
